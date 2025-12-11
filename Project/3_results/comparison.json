@@ -1,0 +1,23 @@
+[
+  {
+    "Algorithm": "BFS",
+    "Nodes Explored": 46,
+    "Solution Length": 5,
+    "Time (ms)": 1.456,
+    "Space (KB)": 17.95
+  },
+  {
+    "Algorithm": "DFS",
+    "Nodes Explored": 31,
+    "Solution Length": 31,
+    "Time (ms)": 1.148,
+    "Space (KB)": 8.36
+  },
+  {
+    "Algorithm": "A*",
+    "Nodes Explored": 5,
+    "Solution Length": 5,
+    "Time (ms)": 0.37,
+    "Space (KB)": 2.51
+  }
+]
